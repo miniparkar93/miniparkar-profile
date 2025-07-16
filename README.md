@@ -1,1 +1,0 @@
-# miniparkar-profile
