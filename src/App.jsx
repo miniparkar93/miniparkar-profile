@@ -13,7 +13,7 @@ export default function MiniparkarAI() {
       {
         method: "POST",
         headers: {
-          Authorization: "Bearer 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",
+          Authorization: "Bearer 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",
           "Content-Type": "application/json",
         },
         body: JSON.stringify({ inputs: prompt }),
